@@ -9,20 +9,20 @@ Photometric Stereo 是将多个光源从不同方向采集到的图片通过一�
 
 
 
+# 效果
+下面是四张原图！光源从产品的哪个方向开始拍照搭眼一看就知道！！！<br>
 
+![image](pic/S0001_C01_P01_L.0.bmp) <br>
+![image](pic/S0001_C01_P01_L.1.bmp) <br>
+![image](pic/S0001_C01_P01_L.2.bmp) <br>
+![image](pic/S0001_C01_P01_L.3.bmp) <br>
 
+*下面这几张图片是融合上面四张原图而得到的！！！分别是 albedo , Normal Map , P Grade ,Q Grade*<br>
 
-
-
-
-
-
-
-
-
-
-
-
+![image](pic/albedo.bmp) <br>
+![image](pic/normal_normalized_GPU.bmp) <br>
+![image](pic/pgrads.bmp) <br>
+![image](pic/qgrads.bmp) <br>
 
 
 
